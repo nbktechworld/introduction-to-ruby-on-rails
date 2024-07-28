@@ -1,0 +1,8 @@
+.product-entry {
+  padding: 16px;
+  border: 2px solid black;
+}
+
+.product-entry-list .product-entry {
+  margin-bottom: 16px;
+}
