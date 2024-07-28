@@ -1,4 +1,10 @@
-# README
+# Intro to ROR
+
+Video: <https://www.youtube.com/watch?v=gK34qIHdwmk>
+
+<a href="https://www.youtube.com/watch?v=gK34qIHdwmk">
+  <img src="https://img.youtube.com/vi/gK34qIHdwmk/0.jpg">
+</a>
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
